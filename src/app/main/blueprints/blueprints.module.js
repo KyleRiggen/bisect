@@ -27,19 +27,18 @@
 
     // Navigation
     msNavigationServiceProvider.saveItem('fuse', {
-      title: 'Bisect',
+      title: 'Bisect the title thing',
       group: true,
       weight: 1
     });
 
     msNavigationServiceProvider.saveItem('fuse.blueprints', {
-      title: 'blueprints',
+      title: 'Blueprints',
       icon: 'icon-tile-four',
       state: 'app.blueprints',
       /*stateParams: {
           'param1': 'page'
        },*/
-      translate: 'APPOINT.APPOINT_NAV',
       weight: 1
     });
   }

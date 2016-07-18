@@ -20,9 +20,6 @@
             // Quick panel
             'app.quick-panel',
 
-            // Sample
-            'app.sample',
-
             // Blueprints
             'app.blueprints'
         ]);

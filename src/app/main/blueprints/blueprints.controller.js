@@ -10,7 +10,7 @@
     var vm = this;
 
     // Data
-    vm.helloText = "Hello appoitments";
+    vm.helloText = "Hello Blueprints!";
 
     // Methods
 
