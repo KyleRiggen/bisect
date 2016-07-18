@@ -13,6 +13,8 @@
 
         $urlRouterProvider.otherwise('/sample');
 
+        $urlRouterProvider.otherwise('/blueprints');
+
         /**
          * Layout Style Switcher
          *

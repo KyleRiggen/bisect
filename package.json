@@ -1,6 +1,9 @@
 {
   "name": "fuse",
   "version": "1.4.1",
+  "description": "test field",
+  "license": "MIT",
+  "homepage": "http://bisect.space",
   "dependencies": {},
   "scripts": {
     "test": "gulp test"
